@@ -34,3 +34,11 @@ label {
     width: 200px;
     display: inline-block;
 }
+
+.jumbotron {
+    margin-top: 40px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
